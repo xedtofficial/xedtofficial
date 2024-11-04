@@ -42,7 +42,7 @@ You might not know it, but I'm radioactive...
 
 
 <div align="center" >
-<p>Viewer Count: </p>
+ <p> <b> Viewer Count: </b> </p> 
   <img src="https://profile-counter.glitch.me/xedtofficial/count.svg?"  />
 </div>
 
