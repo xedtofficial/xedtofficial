@@ -1,9 +1,8 @@
 # Yo, fam!👋
 You might not know it, but I'm radioactive...
 
-<div align="center">
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xedtofficial&hide=prs,contribs&show=discussions_started&show_icons=true&title_color=DA0037&bg_color=1B262C&border_color=444444&text_color=EDEDED&icon_color=444444&border_radius=10)](https://github.com/xedtofficial/github-readme-stats)
-</div>
+
 
 
 ## 📍About me?
